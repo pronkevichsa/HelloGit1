@@ -10,7 +10,7 @@ namespace HelloGit1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HelloGit 1");
+            Console.WriteLine("HelloGit 2");
         }
     }
 }
